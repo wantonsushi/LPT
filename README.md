@@ -1,2 +1,2 @@
-# LPT
-Lifting Progress Tracker
+## Lifting Progress Tracker Template
+### By Euan Hughes
